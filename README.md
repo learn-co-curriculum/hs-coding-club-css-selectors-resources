@@ -9,4 +9,4 @@ Feel like you need more CSS selectors? Check out these great resources for some 
 2. [Team Treehouse](http://teamtreehouse.com/library/css-selectors)
 
 3. [Site Point](http://www.sitepoint.com/web-foundations/css-selectors/si)
-<a href='https://learn.co/lessons/hs-coding-club-css-selectors-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-css-selectors-resources' title='CSS Selectors 101'>CSS Selectors 101</a> on Learn.co and start learning to code for free.</p>
